@@ -1,1 +1,1 @@
-import dfw511
+from dfw511 import *
