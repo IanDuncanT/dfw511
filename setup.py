@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'dfw511',
   packages = ['dfw511'],
-  version = '0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'Python library to retrieve information and convert to json from 511dfw.org',
   author = 'Ian Duncan',
@@ -22,5 +22,6 @@ setup(
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.7',
   ],
 )
