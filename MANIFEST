@@ -3,4 +3,3 @@ README
 setup.cfg
 setup.py
 dfw511/__init__.py
-dfw511/dfw511.py
